@@ -18,3 +18,9 @@ p{
 font-family: 'Mali', cursive;
 font-size: 30px;
 }
+
+@media screen and (max-width: 600px) {
+  body {
+    width: 300px;
+  }
+}
